@@ -1,8 +1,14 @@
-# Getting Started with Create React App
+# About
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was a challenge set on the DIO (digital Innovation One) platform where its purpose was to build a react frontend app with reusable components, to mainly show how a React application should be structured. 
 
-## Available Scripts
+This app uses the github public API to get its users' public info.
+
+# Preview
+
+<img src="public\application.png"
+     alt="application"/>
+# Available Scripts
 
 In the project directory, you can run:
 

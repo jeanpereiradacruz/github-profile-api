@@ -1,8 +1,15 @@
 import './App.css';
+import Header from './components/Header/header'
+import Profile from './components/Profile/profile';
+import Repositories from './components/Repositories/repositories';
 
 function App() {
   return (
-    <h1>Starting project..</h1>
+    <>
+      <Header />
+      <Profile />
+      <Repositories />
+    </>
   );
 }
 
